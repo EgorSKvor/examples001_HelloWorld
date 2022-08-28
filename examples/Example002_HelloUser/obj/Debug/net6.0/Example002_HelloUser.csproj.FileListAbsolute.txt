@@ -1,0 +1,15 @@
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.deps.json
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.runtimeconfig.json
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.dll
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/bin/Debug/net6.0/Example002_HelloUser.pdb
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.dll
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/obj/Debug/net6.0/refint/Example002_HelloUser.dll
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.pdb
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/obj/Debug/net6.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/aaa/Desktop/Prog edu/C# lessons/examples/Example002_HelloUser/obj/Debug/net6.0/ref/Example002_HelloUser.dll
